@@ -53,7 +53,8 @@ Mod menu tout-en-un pour [Narrow One](https://narrow.one).
 
 ## Aperçu
 
-<img width="1916" height="991" alt="image" src="https://github.com/user-attachments/assets/5f73a519-787b-4c2c-87e4-8750b359793b" />
+<img width="1916" height="991" alt="Capture d&#39;écran 2026-09-16 225204" src="https://github.com/user-attachments/assets/a39dc90e-34d1-41ae-b41c-132019d08b52" />
+
 
 ## Installation
 
