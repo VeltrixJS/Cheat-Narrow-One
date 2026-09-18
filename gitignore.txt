@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+veltrixjs-config.json
+dist/
+build/
+tmp/
