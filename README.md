@@ -13,12 +13,26 @@ Mod menu tout-en-un pour [Narrow One](https://narrow.one).
 - Wallhack : ESP Box3 + Wireframe
 - Zoom clic droit
 
+**🎯 Triggerbot**
+- Activation ON/OFF
+- Ciblage automatique quand le crosshair est sur un ennemi (détection par boîte englobante)
+- 3 modes équipe : Auto-détection / FFA / Team
+- Line of Sight (anti-mur) — ne tire pas à travers les obstacles
+- Portée configurable (10 - 1500 m)
+- Tolérance de visée (0 - 40 px) — précision de la boîte
+- Charge progressive selon la distance :
+  - Charge base (20 - 500 ms)
+  - Charge par mètre (0 - 25 ms/m) — bander plus longtemps pour tirer plus loin
+  - Charge maximale (200 - 3000 ms)
+- Délai anti-spam configurable (50 - 1000 ms)
+- Statut en temps réel (nombre de tirs, mode détecté, cible actuelle)
+
 **Visual**
 - FOV caméra personnalisé (30-140°)
 - Sky mod (arc-en-ciel ou couleur custom)
 - X-Ray
 - ESP Infos : distance, pseudo, vie, ping, arme actuelle, porte-drapeau
-- Overlays ESP : info cible, liste des joueurs , alerte drapeau
+- Overlays ESP : info cible, liste des joueurs, alerte drapeau
 - ESP Filtres : équipe + distance max
 - Tracers avec origine configurable
 - Radar déplaçable
@@ -53,7 +67,7 @@ Mod menu tout-en-un pour [Narrow One](https://narrow.one).
 
 ## Aperçu
 
-<img width="1916" height="991" alt="Capture d&#39;écran 2026-09-16 225204" src="https://github.com/user-attachments/assets/a39dc90e-34d1-41ae-b41c-132019d08b52" />
+<img width="1916" height="991" alt="Capture d&#39;écran 2026-09-16 225204" src="https://github.com/user-attachments/assets/ea87d596-bb20-44fc-b8b1-ee147e9cc726" />
 
 
 ## Installation
@@ -76,9 +90,28 @@ Mod menu tout-en-un pour [Narrow One](https://narrow.one).
 
 Tous reconfigurables dans l'onglet **Params**.
 
+> **Triggerbot** : tout se configure directement dans l'onglet **🎯 Trigger** du menu (aucun raccourci clavier à mémoriser).
+
 ## Configuration
 
 La config est sauvegardée automatiquement dans le `localStorage` du navigateur. Tu peux aussi sauvegarder/charger un fichier JSON depuis l'onglet **Params**.
+
+### Recommandations Triggerbot
+
+Config par défaut optimale :
+
+- **Portée max** : 1500 m
+- **Tolérance boîte** : 3 px (très précis, ne tire que si le crosshair est vraiment sur l'ennemi)
+- **Charge base** : 500 ms
+- **Charge par mètre** : 17 ms/m
+- **Charge max** : 2000 ms
+- **Line of sight** : activé (ne tire pas à travers les murs)
+- **Mode équipe** : auto
+
+Ajuste selon ton style :
+- Tir proche rapide → baisse la **charge base**
+- Tir loin précis → augmente la **charge par mètre**
+- Détection plus permissive → augmente la **tolérance boîte**
 
 ## Avertissement
 
