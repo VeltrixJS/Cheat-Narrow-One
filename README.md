@@ -96,23 +96,6 @@ Tous reconfigurables dans l'onglet **Params**.
 
 La config est sauvegardée automatiquement dans le `localStorage` du navigateur. Tu peux aussi sauvegarder/charger un fichier JSON depuis l'onglet **Params**.
 
-### Recommandations Triggerbot
-
-Config par défaut optimale :
-
-- **Portée max** : 1500 m
-- **Tolérance boîte** : 3 px (très précis, ne tire que si le crosshair est vraiment sur l'ennemi)
-- **Charge base** : 500 ms
-- **Charge par mètre** : 17 ms/m
-- **Charge max** : 2000 ms
-- **Line of sight** : activé (ne tire pas à travers les murs)
-- **Mode équipe** : auto
-
-Ajuste selon ton style :
-- Tir proche rapide → baisse la **charge base**
-- Tir loin précis → augmente la **charge par mètre**
-- Détection plus permissive → augmente la **tolérance boîte**
-
 ## Avertissement
 
 Ce script est fourni à titre éducatif uniquement. L'utilisation de mods ou cheats sur Narrow One peut entraîner un bannissement définitif. Utilise-le à tes propres risques, les auteurs ne sont pas responsables des conséquences.
