@@ -90,7 +90,7 @@ Mod menu tout-en-un pour [Narrow One](https://narrow.one).
 
 Tous reconfigurables dans l'onglet **Params**.
 
-> **Triggerbot** : tout se configure directement dans l'onglet **🎯 Trigger** du menu (aucun raccourci clavier à mémoriser).
+> **Triggerbot** : tout se configure directement dans l'onglet **TriggerBot** du menu (aucun raccourci clavier à mémoriser).
 
 ## Configuration
 
