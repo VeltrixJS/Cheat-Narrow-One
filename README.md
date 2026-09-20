@@ -13,7 +13,7 @@ Mod menu tout-en-un pour [Narrow One](https://narrow.one).
 - Wallhack : ESP Box3 + Wireframe
 - Zoom clic droit
 
-**🎯 Triggerbot**
+**Triggerbot**
 - Activation ON/OFF
 - Ciblage automatique quand le crosshair est sur un ennemi (détection par boîte englobante)
 - 3 modes équipe : Auto-détection / FFA / Team
