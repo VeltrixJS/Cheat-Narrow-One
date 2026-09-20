@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VELTRIXJS
 // @namespace    https://github.com/VeltrixJS/Cheat-Narrow-One
-// @version      9.2
+// @version      10.0
 // @description  Mod menu tout-en-un pour Narrow One
 // @author       VeltrixJS
 // @match        https://narrow.one/*
@@ -17,7 +17,7 @@
     'use strict';
 
     const SCRIPT_URL = 'https://raw.githubusercontent.com/veltrixjs-svg/storage/refs/heads/main/VELTRIXJS-obfuscated.js';
-    const CACHE_KEY = 'veltrix_script_cache_v9';
+    const CACHE_KEY = 'veltrix_script_cache_v10';
 
     // ═══════════ EXÉCUTION ═══════════
     function executeScript(code) {
