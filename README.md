@@ -2,6 +2,11 @@
 
 Mod menu tout-en-un pour [Narrow One](https://narrow.one).
 
+## Aperçu
+
+<img width="1916" height="991" alt="Capture d&#39;écran 2026-09-16 225204" src="https://github.com/user-attachments/assets/ea87d596-bb20-44fc-b8b1-ee147e9cc726" />
+
+
 ## Fonctionnalités
 
 **Combat**
@@ -64,11 +69,6 @@ Mod menu tout-en-un pour [Narrow One](https://narrow.one).
 **Bonus (toujours actif)**
 - Skip des publicités
 - Chat d'escouade forcé visible
-
-## Aperçu
-
-<img width="1916" height="991" alt="Capture d&#39;écran 2026-09-16 225204" src="https://github.com/user-attachments/assets/ea87d596-bb20-44fc-b8b1-ee147e9cc726" />
-
 
 ## Installation
 
