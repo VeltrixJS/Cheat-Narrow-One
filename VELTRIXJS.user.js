@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VELTRIXJS
 // @namespace    https://github.com/VeltrixJS/Cheat-Narrow-One
-// @version      11.0
+// @version      10.3
 // @description  Mod menu tout-en-un pour Narrow One
 // @author       VeltrixJS
 // @match        https://narrow.one/*
