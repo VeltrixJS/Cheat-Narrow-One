@@ -8,10 +8,26 @@ Mod menu pour **Narrow One**.
 
 ## Installation
 
-1. Installe **Tampermonkey** ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Firefox](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/))
-2. Ouvre Tampermonkey → **Créer un nouveau script**
-3. Colle le contenu de [`VELTRIXJS.user.js`](./VELTRIXJS.user.js)
-4. Sauvegarde et va sur [narrow.one](https://narrow.one)
+
+<div align="center">
+
+### Installation automatique
+
+[![Installer le script](https://img.shields.io/badge/INSTALLER-Cheat%20Narrow%20One-51f59b?style=for-the-badge&logo=tampermonkey&logoColor=black)](https://github.com/VeltrixJS/Cheat-Narrow-One/raw/refs/heads/main/VELTRIXJS.user.js)
+
+*Nécessite [Tampermonkey](https://www.tampermonkey.net/) installé dans ton navigateur.*
+
+</div>
+
+---
+
+## Installation manuelle
+
+1. Installe **Tampermonkey** ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Firefox](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/)).
+2. Ouvre Tampermonkey et clique sur **Créer un nouveau script**.
+3. Copie le contenu de [`VELTRIXJS.user.js`](https://github.com/VeltrixJS/Cheat-Narrow-One/blob/main/VELTRIXJS.user.js).
+4. Colle le code dans l'éditeur et sauvegarde avec `Ctrl + S`.
+5. Ouvre [Narrow One](https://narrow.one/) et vérifie que le script est activé.
 
 ---
 
